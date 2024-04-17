@@ -8,3 +8,5 @@ L'objectif principal est de créer un programme qui peut lire un fichier contena
 
 **Contrôles de caméra:** Le programme doit permettre à l'utilisateur de contrôler la position et l'orientation de la caméra pour visualiser la carte sous différents angles.
 
+
+![Capture d'écran 2023-07-11 054719](https://github.com/memahote/FDF/assets/122450603/504234f4-fd8c-4f9a-85e5-6ef466b27b0a)
